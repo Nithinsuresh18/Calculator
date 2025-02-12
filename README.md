@@ -34,7 +34,7 @@ calculator-app/
 2. Open the `CALCULATOR.html` file in a browser.
 
 ## Demo
-You can view and use the calculator by opening `index.html` in any modern web browser.
+You can view and use the calculator by opening `CALCUATOR.html` in any modern web browser.
 
 ## License
 This project is open-source and available under the **MIT License**.
